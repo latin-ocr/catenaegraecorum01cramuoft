@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./catenaegraecorum01cramuoft_0037.png"; bbox 0 0 1846 3380; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 529 1305 1127 1376">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 529 1305 1127 1376">
+     <span class='ocr_line' id='line_1_1' title="bbox 529 1305 1127 1376; baseline -0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 529 1305 1127 1376; x_wconf 88' lang='lat' dir='ltr'><strong>CATENA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 822 1504 875 1532">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 822 1504 875 1532">
+     <span class='ocr_line' id='line_1_2' title="bbox 822 1504 875 1532; baseline 0.019 -1"><span class='ocrx_word' id='word_1_2' title='bbox 822 1504 875 1532; x_wconf 78' lang='lat' dir='ltr'><strong>IN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 209 1642 1488 1702">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 209 1642 1488 1702">
+     <span class='ocr_line' id='line_1_3' title="bbox 209 1642 1488 1702; baseline -0.004 -2"><span class='ocrx_word' id='word_1_3' title='bbox 209 1645 852 1702; x_wconf 89' lang='lat' dir='ltr'><strong>EVANGELIUM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 911 1647 963 1702; x_wconf 89' lang='lat' dir='ltr'><strong>S.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1019 1642 1488 1701; x_wconf 90' lang='lat' dir='ltr'><strong>MATTHAEI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 440 1834 1269 1880">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 440 1834 1269 1880">
+     <span class='ocr_line' id='line_1_4' title="bbox 440 1834 1269 1880; baseline -0.002 -3"><span class='ocrx_word' id='word_1_6' title='bbox 440 1836 480 1877; x_wconf 93' lang='lat' dir='ltr'><strong>E</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 513 1836 695 1880; x_wconf 91' lang='lat' dir='ltr'><strong>CODD.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 729 1835 912 1879; x_wconf 92' lang='lat' dir='ltr'>BODL.</span> <span class='ocrx_word' id='word_1_9' title='bbox 943 1835 1030 1878; x_wconf 87' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1062 1834 1269 1876; x_wconf 88' lang='lat' dir='ltr'><strong>PARIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
